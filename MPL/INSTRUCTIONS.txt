@@ -1,0 +1,7 @@
+mount c~ 
+c:
+cd MASM611/BIN
+masm filename.asm
+Link filename.obj 
+4times enter 
+cv filename.exe
